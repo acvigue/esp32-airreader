@@ -1,0 +1,69 @@
+Altium Designer Pick and Place Locations
+C:\Users\aiden\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for AirReader.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/04/24
+Time:       22:39
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment               Description                                                                                             Designator Footprint                      Layer       Rotation 
+3917.000      3290.000      ABM11-27.120MHZ-B1U-T "Crystal 27.12MHz ±10ppm 10pF SMD-4 2mm x 1.6mm"                                                        Y1         FP-ABM11-MFG                   TopLayer    270      
+4066.866      4047.000      WS2812-2020           ""                                                                                                      U10        LED_WS2812-2020                BottomLayer 180      
+3874.866      4047.000      WS2812-2020           ""                                                                                                      U9         LED_WS2812-2020                BottomLayer 180      
+3681.866      4047.000      WS2812-2020           ""                                                                                                      U8         LED_WS2812-2020                BottomLayer 180      
+3489.866      4047.000      WS2812-2020           ""                                                                                                      U7         LED_WS2812-2020                BottomLayer 180      
+3297.866      4047.000      WS2812-2020           ""                                                                                                      U6         LED_WS2812-2020                BottomLayer 180      
+3289.000      4037.000      ATECC608B-MAHDA-S     "IC AUTHENTICATION CHIP"                                                                                U5         FP-C04-21355-Q4B-IPC_B         TopLayer    90       
+3682.535      4183.409      ESP32-S3-MINI-1-N8    "Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount"         U4         XCVR_ESP32-S3-MINI-1-N8        TopLayer    0        
+4015.000      1433.000      MCP73831T-2DCI/OT     "IC CONTROLLR LI-ION 4.2V SOT23-5"                                                                      U3         FP-C04-091-OT-IPC_B            TopLayer    270      
+3194.000      1778.000      LM1117MPX-3.3/NOPB    "800mA Low-Dropout Linear Regulator, 4-pin SOT-223, Pb-Free"                                            U2         DCY0004A_L                     TopLayer    180      
+3686.000      3287.000      PN5321A3HN/C106,51    "IC RFID RDR/TRAN 13.56MZ 40HVQFN"                                                                      U1         FP-SOT618-1-MFG                TopLayer    90       
+4085.000      4142.000      147873-1              "SWITCH TACTILE SPST-NO 0.05A 24V"                                                                      SW1        FP-147873-1-MFG                TopLayer    90       
+3415.000      1942.000      ERJ3EKF1002V          "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"       R13        RESC1609X55X30LL15T15          TopLayer    270      
+3290.000      4223.000      ERJ3EKF1002V          "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"       R12        RESC1609X55X30LL15T15          TopLayer    180      
+3290.000      4171.000      ERJ3EKF1002V          "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"       R11        RESC1609X55X30LL15T15          TopLayer    180      
+4049.000      4333.000      ERJ3EKF1002V          "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"       R10        RESC1609X55X30LL15T15          TopLayer    180      
+4116.000      1400.000      ERJ-3EKF5101V         "RES SMD 5.1K OHM 1% 1/10W 0603"                                                                        R9         FP-ERJ3EK-MFG                  TopLayer    90       
+3389.000      1630.457      ERJ-3EKF1003V         ""                                                                                                      R8         RESC1608X55X30ML15T15          TopLayer    270      
+3644.000      2677.000      RK73B1JTTD152J        ""                                                                                                      R7         RESC1608X55X30LL20T10          TopLayer    90       
+3727.000      2677.000      RK73B1JTTD152J        ""                                                                                                      R6         RESC1608X55X30LL20T10          TopLayer    90       
+3813.000      2877.000      ERJ-3EKF1691V         ""                                                                                                      R5         RESC1608X55X30NL15T15          TopLayer    180      
+3919.000      3045.000      RK73H1JTTDD1001F      "1kO ±1% 0.125W Chip Resistor 0603 Thick Film AEC-Q200 Qualified"                                       R4         FP-RK73H1J-IPC_A               TopLayer    270      
+3513.000      3188.000      ERJ3EKF1002V          "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"       R3         RESC1609X55X30LL15T15          TopLayer    270      
+3780.000      1696.000      ERJ-3EKF5101V         "RES SMD 5.1K OHM 1% 1/10W 0603"                                                                        R2         FP-ERJ3EK-MFG                  TopLayer    0        
+3590.000      1696.000      ERJ-3EKF5101V         "RES SMD 5.1K OHM 1% 1/10W 0603"                                                                        R1         FP-ERJ3EK-MFG                  TopLayer    180      
+3539.000      1908.000      2N7002                "N-Channel OptiMOS Small-Signal-Transistor, 60 V VDS, 0.3 A ID, -55 to 150 degC, PG-SOT23, Reel, Green" Q2         INF-PG-SOT23_M                 TopLayer    0        
+3273.000      1547.000      FDN336P               "MOSFET P-CH 20V 1.3A SSOT3"                                                                            Q1         FP-527AG-IPC_A                 TopLayer    90       
+4187.362      1734.000      S2B-PH-SM4-TB(LF)(SN) "Male Header, Pitch 2 mm, 1 x 2 Position, Height 5.5 mm, -25 to 85 degC, RoHS, Tape and Reel"           P1         JST-_S2B-PH-SM4-TB(LF)(SN)-2_V TopLayer    90       
+3807.000      1859.000      CMT-7525-80-SMT-TR    CMT-7525-80-SMT-TR                                                                                      LS1        XDCR_CMT-7525-80-SMT-TR        TopLayer    270      
+3651.000      3066.000      BRC1608TR56M          "FIXED IND 560NH 760MA 95 MOHM"                                                                         L2         FP-BRC1608-MFG                 TopLayer    90       
+3720.000      3066.000      BRC1608TR56M          "FIXED IND 560NH 760MA 95 MOHM"                                                                         L1         FP-BRC1608-MFG                 TopLayer    90       
+4256.000      4079.000      TC2030-IDC-NL         "CABLE ADAPTER 6 POS"                                                                                   J2         TAG_TC2030-IDC-NL              TopLayer    270      
+3685.000      1550.201      USB4110-GF-A          "CONN USB 2.0 TYPE-C R/A SMT"                                                                           J1         FP-USB4110-GF-A-MFG            TopLayer    0        
+3547.000      3067.000      BLM18AG121SN1D        "Chip Ferrite Bead, 0603, 120O @ 100MHz, 0.18O, 25%, 800mA"                                             FB2        FP-BLM18-0_15-t0_8-IPC_B       TopLayer    0        
+3820.000      3068.000      BLM18AG121SN1D        "Chip Ferrite Bead, 0603, 120O @ 100MHz, 0.18O, 25%, 800mA"                                             FB1        FP-BLM18-0_15-t0_8-IPC_B       TopLayer    180      
+3389.000      1455.000      MBR120ESFT1G          ""                                                                                                      D1         On_Semiconductor_498_MFG       TopLayer    90       
+3999.000      1543.000      VJ0603A221JXACW1BC    ""                                                                                                      C16        CAPC1608X95X40ML15T15          TopLayer    180      
+3917.000      3435.000      CL10A106MR8NNNC       "Cap Ceramic 10uF 4V X5R ±20% Pad SMD 0603 +85°C T/R"                                                   C15        FP-CL10-IPC_C                  TopLayer    0        
+3388.000      1730.000      CL10A106MR8NNNC       "Cap Ceramic 10uF 4V X5R ±20% Pad SMD 0603 +85°C T/R"                                                   C14        FP-CL10-IPC_C                  TopLayer    270      
+3917.685      3491.000      CL10A106MR8NNNC       "Cap Ceramic 10uF 4V X5R ±20% Pad SMD 0603 +85°C T/R"                                                   C13        FP-CL10-IPC_C                  TopLayer    0        
+3290.000      4342.000      CL10A106MR8NNNC       "Cap Ceramic 10uF 4V X5R ±20% Pad SMD 0603 +85°C T/R"                                                   C12        FP-CL10-IPC_C                  TopLayer    0        
+3290.000      4274.000      CL10A106MR8NNNC       "Cap Ceramic 10uF 4V X5R ±20% Pad SMD 0603 +85°C T/R"                                                   C11        FP-CL10-IPC_C                  TopLayer    0        
+3652.000      2879.000      C0603C220J1GACTU      "CAP CER 22PF 100V 5% NP0 0603"                                                                         C10        FP-C0603C-CF-MFG               TopLayer    270      
+3619.000      2974.000      VJ0603A221JXACW1BC    ""                                                                                                      C9         CAPC1608X95X40ML15T15          TopLayer    180      
+3619.000      2776.000      VJ0603A101JXACW1BC    ""                                                                                                      C8         CAPC1608X95X40ML15T15          TopLayer    180      
+3753.000      2974.000      VJ0603A221JXACW1BC    ""                                                                                                      C7         CAPC1608X95X40ML15T15          TopLayer    180      
+3753.000      2776.000      VJ0603A101JXACW1BC    ""                                                                                                      C6         CAPC1608X95X40ML15T15          TopLayer    180      
+3719.000      2879.000      C0603C220J1GACTU      "CAP CER 22PF 100V 5% NP0 0603"                                                                         C5         FP-C0603C-CF-MFG               TopLayer    90       
+3918.000      2900.000      C0603C102K5RACTU      "CAP CER 1000PF 50V X7R 0603"                                                                           C4         FP-C0603C-CF-MFG               TopLayer    90       
+3918.000      3143.000      CL10A106MR8NNNC       "Cap Ceramic 10uF 4V X5R ±20% Pad SMD 0603 +85°C T/R"                                                   C3         FP-CL10-IPC_C                  TopLayer    180      
+3917.000      3380.000      CC0603JRNPO9BN330     "CAP CER 33PF 50V C0G/NPO 0603"                                                                         C2         FP-CC0603-0_9-IPC_C            TopLayer    180      
+3917.000      3212.000      CC0603JRNPO9BN330     "CAP CER 33PF 50V C0G/NPO 0603"                                                                         C1         FP-CC0603-0_9-IPC_C            TopLayer    0        
+4255.732      1455.614      PTH-M3D5X5            "Plated Thru-Hole M3 D5X5"                                                                              *4         PTH-M3D5X5-Footprint-1         TopLayer    0        
+3114.000      4369.000      PTH-M3D5X5            "Plated Thru-Hole M3 D5X5"                                                                              *3         PTH-M3D5X5-Footprint-1         TopLayer    0        
+4255.732      4369.000      PTH-M3D5X5            "Plated Thru-Hole M3 D5X5"                                                                              *2         PTH-M3D5X5-Footprint-1         TopLayer    0        
+3114.000      1455.614      PTH-M3D5X5            "Plated Thru-Hole M3 D5X5"                                                                              *1         PTH-M3D5X5-Footprint-1         TopLayer    0        

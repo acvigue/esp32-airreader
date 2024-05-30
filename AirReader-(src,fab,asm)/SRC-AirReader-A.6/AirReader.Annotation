@@ -1,0 +1,22 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Connectors.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=ESP32.SchDoc
+UniqueIDPath1=
+SheetNumber1=4
+DocumentName2=Peripherals.SchDoc
+UniqueIDPath2=
+SheetNumber2=5
+DocumentName3=PN532.SchDoc
+UniqueIDPath3=
+SheetNumber3=2
+DocumentName4=Power.SchDoc
+UniqueIDPath4=
+SheetNumber4=3
+
+
